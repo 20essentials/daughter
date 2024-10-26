@@ -1,6 +1,6 @@
 /******************** SONGS ********************/
 
-const nameBand = "DAUGHTER   ";
+const nameBand = "DAUGHTER ";
 
 let nameSongs = [
 	"GET LUCKY", /*1*/
